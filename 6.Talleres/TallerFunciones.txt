@@ -1,0 +1,67 @@
+
+
+Taller Autónomo: El Arte de las Funciones en Python
+
+Descripción:
+El objetivo de esta actividad es que realices una inmersión técnica en el concepto de Funciones. No se trata de un resumen convencional en texto; deberás construir un "documento vivo" de código donde la teoría y la práctica se ejecuten simultáneamente.
+
+>/Fase 1: Documentación
+
+Realiza una lectura comprensiva del Capítulo 4: Funciones en Python, disponible en: https://ellibrodepython.com/funciones-python
+
+>/Fase 2: Construcción del Script (.py)
+
+Debes entregar un único archivo con extensión .py que cumpla con los siguientes requisitos estructurales:
+
+Encabezado Técnico: Incluye un comentario multilínea inicial con tus datos, la fecha y el propósito del script.
+
+Bloques Temáticos: Divide el archivo en secciones claramente identificadas mediante comentarios (ej. # --- Definición ---, # --- Argumentos ---).
+
+Síntesis Conceptual: Antes de cada ejemplo de código, escribe 1 o 2 líneas de comentario explicando qué regla o concepto estás demostrando.
+
+Demostraciones Funcionales: Cada concepto debe ir acompañado de una función funcional y su respectiva llamada a ejecución (para que al correr el archivo se vean los resultados en consola).
+
+Documentación (Docstrings): Al menos dos de tus funciones deben incluir documentación formal utilizando triples comillas """...""".
+
+>/ Temas Obligatorios a Incluir
+
+Para que el ejercicio se considere completo, tu archivo debe demostrar:
+
+Definición básica de una función y su llamada.
+
+Paso de parámetros y argumentos (posicionales y por nombre).
+
+Uso de la sentencia return para devolver valores.
+
+Parámetros por defecto (opcionales).
+
+Diferencia entre variables locales y globales (Scope).
+
+Introducción breve a argumentos variables (*args).
+
+>/ Criterios de Evaluación
+
+Funcionalidad: El script debe ejecutarse de principio a fin sin errores de sintaxis.
+
+Claridad: Los comentarios deben explicar el "por qué" y no solo el "qué".
+
+Orden: Uso correcto de sangrías (indentación) y nombres de funciones descriptivos.
+
+---------------------------------------------------------------------------------------
+Ejemplo de cómo iniciar tu trabajo:
+
+Python
+# EJERCICIO DE REFORZAMIENTO: FUNCIONES
+# Autor: [Tu Nombre]
+# Materia: Fundamentos de Programación
+
+# 1. CONCEPTO: DEFINICIÓN BÁSICA
+# Una función es un bloque de código reutilizable que solo se ejecuta cuando es llamado.
+def mi_primera_funcion():
+    print("Demostración de ejecución de función básica.")
+
+mi_primera_funcion()
+
+# 2. CONCEPTO: RETORNO DE DATOS...
+# (Continúa con los demás puntos)
+---------------------------------------------------------------------------------------
