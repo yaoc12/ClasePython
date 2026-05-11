@@ -1,5 +1,6 @@
 '''
 Ejercicio: El Simulador "Python Coffee Shop"
+
 El estudiante debe construir un programa que gestione la venta de un café. Para ello, deberá programar 4 funciones específicas, cada una representando uno de los 4 tipos de funciones que aprendimos.
 
 El Flujo de Trabajo
@@ -58,3 +59,4 @@ Instrucción: La función recibe el tamaño y el precio final. Debe imprimir un 
 
 Objetivo: Entender que una función puede usar resultados previos para ejecutar una acción de cierre.
 '''
+
